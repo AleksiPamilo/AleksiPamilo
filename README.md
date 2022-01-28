@@ -1,22 +1,17 @@
 ```js
-globalThis.aleksi = {
-  Interest: [
-    "Gaming",
-    "Coding"
-  ],
+const aleksi = {
+  code: [ "JavaScript", "TypeScript", "HTML", "CSS" ],
   
-  Languages: [
-    "JavaScript/TypeScript",
-    "C#",
-    "HTML",
-    "CSS"
-  ],
-  
-  Frameworks: [
-    "React",
-    "Node.js"
-  ],
-  
-  fetchWebsite: () => fetch("https://www.aleksi-pamilo.me")
+  technologies: {
+    backEnd: {
+      js: [ "Node", "Express" ]
+    },
+    
+    frontEnd: {
+      js: [ "React" ]
+    },
+    
+    interest: [ "Gaming", "Coding" ]
+  }
 }
 ```
