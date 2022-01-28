@@ -11,6 +11,7 @@ const aleksi = {
       js: [ "React" ]
     },
     
+    databases: [ "MongoDB/Mongoose", "MySql", "sqlite" ],
     interest: [ "Gaming", "Coding" ]
   }
 }
