@@ -8,8 +8,7 @@ const aleksi = {
     frontEnd: {
       js: [ "React" ]
     },
-    databases: [ "MongoDB/Mongoose", "MySql", "sqlite" ],
-    interest: [ "Gaming", "Coding" ]
-  }
+    databases: [ "MongoDB/Mongoose", "MySQL", "MariaDB", "sqlite" ]
+  },
+   interest: [ "Gaming", "Coding" ]
 }
-```
