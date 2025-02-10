@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksipamilo&label=Profile%20views&color=0e75b6&style=flat" alt="aleksipamilo" /> </p>
 
-- 🔭 I’m currently working on [Enrolly](https://enrolly.aleksipamilo.dev), [Blog](https://blog.aleksipamilo.dev/), [Carshop](https://carshop.aleksipamilo.dev/)
+- 🔭 I’m currently working on [Enrolly](https://enrolly.pmlo.dev), [Blog](https://blog.pmlo.dev/), [Carshop](https://carshop.pmlo.dev/)
 
-- 👨‍💻 All of my projects are available at [https://aleksipamilo.dev/](https://aleksipamilo.dev/)
+- 👨‍💻 All of my projects are available at [https://pmlo.dev/](https://pmlo.dev/)
 
 - 📫 How to reach me **aleksi.pamilo@gmail.com**
 
