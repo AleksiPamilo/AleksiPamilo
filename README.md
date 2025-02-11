@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pmlo.dev/](https://pmlo.dev/)
 
-- 📫 How to reach me **aleksi.pamilo@gmail.com**
+- 📫 How to reach me **aleksi@pmlo.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
